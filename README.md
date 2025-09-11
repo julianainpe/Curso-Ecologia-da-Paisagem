@@ -1,4 +1,6 @@
-# Mini curso: **Conceitos básicos em Ecologia da Paisagem: Teórico e Prático**
+# Mini curso
+
+**Conceitos básicos em Ecologia da Paisagem: Teórico e Prático**
 
 Aqui estão disponíveis os dados e aulas teóricas do Mini-Curso **"Conceitos básicos em Ecologia da Paisagem: Teórico e Prático"** ministrado pelos
 pesquisadores do INMA (Juliana Silveira) e da UFG (Edgar Lima) nos dias 11, 12 e 13/09/2025.
